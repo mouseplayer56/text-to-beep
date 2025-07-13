@@ -6,5 +6,7 @@ Essentially, records your keyboard inputs and (upon pressing ENTER) converts the
 
 _Requirements:_
 **Python 3.13+** (may work on older versions)
+
 **Keyboard import**
+
 **VLC import**
